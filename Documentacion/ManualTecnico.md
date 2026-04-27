@@ -6,33 +6,7 @@
 
 ---
 
-## Descripción General
 
-Sancarlista Academy es una aplicación de escritorio en Java con interfaz Swing. Gestiona usuarios, cursos, inscripciones, calificaciones, reportes PDF y una bitácora de actividad. Usa arreglos estáticos como única estructura de datos (sin ArrayList ni HashMap).
-
----
-
-## Tecnologías Utilizadas
-
-| Tecnología | Versión | Uso |
-|---|---|---|
-| Java SE | 11+ | Lenguaje principal |
-| Java Swing | JDK incluido | Interfaz gráfica |
-| NetBeans IDE | 17+ | Entorno de desarrollo |
-| Apache PDFBox | 2.0.32 | Generación de reportes PDF |
-| Java Serialization | JDK incluido | Guardado de datos en `.ser` |
-| Maven | 3.x | Gestión de dependencias |
-
-Dependencia en `pom.xml`:
-```xml
-<dependency>
-    <groupId>org.apache.pdfbox</groupId>
-    <artifactId>pdfbox</artifactId>
-    <version>2.0.32</version>
-</dependency>
-```
-
----
 
 ## Arquitectura MVC
 
@@ -51,8 +25,8 @@ La navegación entre vistas usa un `CardLayout` dentro de `VentanaPrincipal`.
 ```
 src/main/java/
 ├── modelo/
-│   ├── Listas.java              (objeto raíz con todos los arreglos)
-│   ├── Usuario.java             (clase base abstracta)
+│   ├── Listas.java             
+│   ├── Usuario.java             
 │   ├── Administrador.java
 │   ├── Instructor.java
 │   ├── Estudiante.java

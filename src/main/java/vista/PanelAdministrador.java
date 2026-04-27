@@ -68,6 +68,7 @@ public class PanelAdministrador extends javax.swing.JPanel {
         tareaSesiones = new HiloSesionesActivas(areaConsola, ventanaPrincipal.getControlador());
         hiloSesiones = new Thread(tareaSesiones);
         hiloSesiones.start();
+        
         // mostramos llamando a hilos en modelos
 
         tareaInscripciones = new HiloInscripciones(areaConsola, ventanaPrincipal.getControlador());

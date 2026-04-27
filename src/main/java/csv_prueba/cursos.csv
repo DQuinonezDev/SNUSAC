@@ -1,0 +1,15 @@
+IPC1,Introduccion a la Programacion 1,Fundamentos de programacion en Java,4,A
+IPC2,Introduccion a la Programacion 2,Estructuras de datos y algoritmos,4,B
+MAT1,Matematica Discreta,Logica y matematica aplicada a computacion,3,A
+MAT2,Calculo Diferencial,Limites derivadas e integrales,5,C
+BD1,Bases de Datos 1,Modelado y SQL relacional,4,A
+BD2,Bases de Datos 2,Bases de datos avanzadas y NoSQL,4,B
+SO1,Sistemas Operativos,Procesos memoria y sistemas de archivos,4,A
+REDES1,Redes de Computadoras,Protocolos y arquitectura de redes,3,B
+SOFT1,Ingenieria de Software,Ciclo de vida y metodologias agiles,4,A
+POO1,Programacion Orientada a Objetos,Herencia polimorfismo e interfaces en Java,4,C
+IPC1,Duplicado Intencional,Este curso ya existe,4,A
+MAT3,Curso sin creditos,,3,B
+CRED0,Creditos cero,Descripcion valida,0,A
+CREDX,Creditos texto,Descripcion valida,abc,B
+SOLO3,Solo tres columnas,Descripcion

@@ -1,0 +1,14 @@
+INS001,Carlos Mendoza,1985-03-12,Masculino,pass123
+INS002,Ana Patricia López,1990-07-25,Femenino,secreta456
+INS003,Roberto Juárez,1978-11-08,Masculino,clave789
+INS004,María Elena Tuc,1992-01-30,Femenino,instructor01
+INS005,Luis Fernando García,1983-06-14,Masculino,luisf2025
+INS006,Sofía Ramírez,1995-09-03,Femenino,sofia@pass
+INS007,Diego Castellanos,1980-12-21,Masculino,diego007
+INS008,Claudia Morales,1988-04-17,Femenino,claudia88
+INS009,Jorge Enrique Pérez,1975-08-09,Masculino,jorge75
+INS010,Valeria Solís,1993-02-28,Femenino,valeria93
+INS001,Duplicado Intencional,1999-01-01,Masculino,dup123
+INS011,SinContrasena,1990-05-05,Masculino,
+INS012,Carlos Lopez,1990-05-05,Masculino
+CODIGO_INVALIDO,Solo tres columnas,Masculino
